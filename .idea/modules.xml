@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../gamedoanso/.idea/gamedoanso.iml" filepath="$PROJECT_DIR$/../gamedoanso/.idea/gamedoanso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gamedoanso-thuattoan/.idea/gamedoanso-thuattoan.iml" filepath="$PROJECT_DIR$/../gamedoanso-thuattoan/.idea/gamedoanso-thuattoan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/w4-BouncingBallGame.iml" filepath="$PROJECT_DIR$/.idea/w4-BouncingBallGame.iml" />
+    </modules>
+  </component>
+</project>
